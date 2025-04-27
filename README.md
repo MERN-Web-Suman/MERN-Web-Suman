@@ -18,7 +18,11 @@
 </p>
 
 <h3 align="left">ABOUT ME:</h3>
-<h3 align="justify"> A Full Stack Developer is responsible for designing, developing, and maintaining both the front-end and back-end of web applications. They possess a comprehensive understanding of web development technologies, including client-side frameworks (like React), server-side languages (such as Node.js), databases (SQL and MongoDB), and API integrations. Full Stack Developers work collaboratively with UI/UX designers, product managers, and other developers to deliver scalable, efficient, and user-friendly solutions. Their role requires adaptability, problem-solving skills, and the ability to manage the entire development lifecycle from concept to deployment and maintenance. </h3>
+<h3 align="justify"> I am  Suman Kumar is a highly motivated and skilled Full Stack Developer with a strong foundation in designing, developing, and deploying end-to-end web applications. Proficient in both front-end and back-end technologies, he brings seamless user experiences and robust server-side logic together in every project. On the front end, Suman works extensively with HTML5, CSS3, JavaScript, React.js, and Tailwind CSS to create responsive, accessible, and visually engaging user interfaces. On the back end, he is experienced with Node.js, Express.js, and MongoDB, enabling him to build scalable APIs and manage complex database interactions efficiently.
+
+He also possesses solid knowledge of  databases like MySQL and MongoDB, He integrates third-party services, performs RESTful API development, and manages state using tools like Redux and Context API. Familiar with DevOps basics, he uses control version system Git, GitHub, and deployment platforms such as render.
+
+With a problem-solving mindset and a passion for clean, maintainable code, Suman thrives in Agile environments. He collaborates well with cross-functional teams and focuses on delivering high-quality, scalable web applications that align with business objectives. Suman Kumar is dedicated to continuous learning and innovation in the evolving tech landscape. </h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mern-web-suman&show_icons=true&locale=en" alt="mern-web-suman" /></p>
 
