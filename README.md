@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">ABOUT ME:</h3>
-<h4 align="justify"> A Full Stack Developer is responsible for designing, developing, and maintaining both the front-end and back-end of web applications. They possess a comprehensive understanding of web development technologies, including client-side frameworks (like React), server-side languages (such as Node.js), databases (SQL and MongoDB), and API integrations. Full Stack Developers work collaboratively with UI/UX designers, product managers, and other developers to deliver scalable, efficient, and user-friendly solutions. Their role requires adaptability, problem-solving skills, and the ability to manage the entire development lifecycle from concept to deployment and maintenance. </h4>
+<h2 align="justify"> A Full Stack Developer is responsible for designing, developing, and maintaining both the front-end and back-end of web applications. They possess a comprehensive understanding of web development technologies, including client-side frameworks (like React), server-side languages (such as Node.js), databases (SQL and MongoDB), and API integrations. Full Stack Developers work collaboratively with UI/UX designers, product managers, and other developers to deliver scalable, efficient, and user-friendly solutions. Their role requires adaptability, problem-solving skills, and the ability to manage the entire development lifecycle from concept to deployment and maintenance. </h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mern-web-suman&show_icons=true&locale=en" alt="mern-web-suman" /></p>
 
