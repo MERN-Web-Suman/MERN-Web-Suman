@@ -22,7 +22,7 @@
 
 He also possesses solid knowledge of  databases like MySQL and MongoDB, He integrates third-party services, performs RESTful API development, and manages state using tools like Redux and Context API. Familiar with DevOps basics, he uses control version system Git, GitHub, and deployment platforms such as render.
 
-With a problem-solving mindset and a passion for clean, maintainable code, Suman thrives in Agile environments. He collaborates well with cross-functional teams and focuses on delivering high-quality, scalable web applications that align with business objectives. Suman Kumar is dedicated to continuous learning and innovation in the evolving tech landscape. </h3>
+With a problem-solving mindset and a passion for clean, maintainable code, He thrives in Agile environments. He collaborates well with cross-functional teams and focuses on delivering high-quality, scalable web applications that align with business objectives. Suman Kumar is dedicated to continuous learning and innovation in the evolving tech landscape. </h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mern-web-suman&show_icons=true&locale=en" alt="mern-web-suman" /></p>
 
