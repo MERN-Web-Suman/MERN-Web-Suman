@@ -22,7 +22,7 @@
 
 He also possesses solid knowledge of  databases like MySQL and MongoDB, He integrates third-party services, performs RESTful API development, and manages state using tools like Redux and Context API. Familiar with DevOps basics, he uses control version system Git, GitHub, and deployment platforms such as render.
 
-With a problem-solving mindset and a passion for clean, maintainable code, He thrives in Agile environments. He collaborates well with cross-functional teams and focuses on delivering high-quality, scalable web applications that align with business objectives. Suman Kumar is dedicated to continuous learning and innovation in the evolving tech landscape.
+With a problem-solving mindset and a passion for clean, maintainable code, He thrives in Agile environments. He collaborates well with cross-functional teams and focuses on delivering high-quality, scalable web applications that align with business objectives. He is dedicated to continuous learning and innovation in the evolving tech landscape.
  
  I am  a dedicated and ambitious B.Tech student at  Gandhi Institute for Education and Technology , specializing in Computer Science and Engineering. With a strong foundation in programming, data structures, and web development, he is passionate about solving real-world problems through innovative technology. He actively participates in coding competitions, technical workshops, and collaborative projects to enhance his skills. He is particularly interested in full-stack development, AI, and emerging technologies. Known for his discipline, teamwork, and continuous learning attitude, He aspires to contribute meaningfully to the tech industry while constantly evolving as a professional and responsible engineer.
 </h3>
