@@ -1,32 +1,72 @@
-<h1 align="center">Hi 👋, I'm Suman Kumar</h1>
-<h3 align="center">I’m a full stack developer</h3>
+<h1 align="center">👋 Hi, I'm Suman Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | Tech Enthusiast | B.Tech CSE Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mern-web-suman&label=Profile%20views&color=0e75b6&style=flat" alt="mern-web-suman" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/MERN-Web-Suman](https://github.com/MERN-Web-Suman)
-
-- 📝 My Linkedin Profile [www.linkedin.com/in/suman-mern-stack](www.linkedin.com/in/suman-mern-stack)
-
-- 📫 How to reach me **sumankumar9798330493@gmail.com**
-
-- ⚡ Fun fact **I think i am funny 😂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sumankumar26015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sumankumar26015" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://github.com/mern-web-suman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/mern-web-suman" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/MERN-Web-Suman" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=mern-web-suman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">ABOUT ME:</h3>
-<h3 align="justify"> I am  Suman Kumar is a highly motivated and skilled Full Stack Developer with a strong foundation in designing, developing, and deploying end-to-end web applications. Proficient in both front-end and back-end technologies, he brings seamless user experiences and robust server-side logic together in every project. On the front end, Suman works extensively with HTML5, CSS3, JavaScript, React.js, and Tailwind CSS to create responsive, accessible, and visually engaging user interfaces. On the back end, he is experienced with Node.js, Express.js, and MongoDB, enabling him to build scalable APIs and manage complex database interactions efficiently.
+---
 
-He also possesses solid knowledge of  databases like MySQL and MongoDB, He integrates third-party services, performs RESTful API development, and manages state using tools like Redux and Context API. Familiar with DevOps basics, he uses control version system Git, GitHub, and deployment platforms such as render.
+## 💡 About Me
 
-With a problem-solving mindset and a passion for clean, maintainable code, He thrives in Agile environments. He collaborates well with cross-functional teams and focuses on delivering high-quality, scalable web applications that align with business objectives. He is dedicated to continuous learning and innovation in the evolving tech landscape.
- 
- I am  a dedicated and ambitious B.Tech student at  Gandhi Institute for Education and Technology , specializing in Computer Science and Engineering. With a strong foundation in programming, data structures, and web development, he is passionate about solving real-world problems through innovative technology. He actively participates in coding competitions, technical workshops, and collaborative projects to enhance his skills. He is particularly interested in full-stack development, AI, and emerging technologies. Known for his discipline, teamwork, and continuous learning attitude, He aspires to contribute meaningfully to the tech industry while constantly evolving as a professional and responsible engineer.
-</h3>
+I'm a highly motivated Full Stack Developer passionate about crafting responsive, scalable, and modern web applications. Currently pursuing B.Tech in Computer Science & Engineering at **Gandhi Institute for Education and Technology**, I blend technical knowledge with creativity to solve real-world problems.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mern-web-suman&show_icons=true&locale=en" alt="mern-web-suman" /></p>
+- 🌍 Based in India
+- 👨‍💻 All my projects: [GitHub Portfolio](https://github.com/MERN-Web-Suman)
+- 💼 My LinkedIn: [suman-mern-stack](https://www.linkedin.com/in/suman-mern-stack)
+- 📧 Reach me at: **sumankumar9798330493@gmail.com**
+- 🤹 Fun Fact: _I think I'm funny_ 😂
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mern-web-suman&" alt="mern-web-suman" /></p>
+---
+
+## 🧠 Tech Stack
+
+**Frontend**  
+`HTML5` `CSS3` `JavaScript` `React.js` `Tailwind CSS` `Bootstrap`
+
+**Backend**  
+`Node.js` `Express.js` `MongoDB` `MySQL`
+
+**Others**  
+`Redux` `Context API` `REST API` `Git & GitHub` `Render` `Vercel`
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/sumankumar26015" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/suman-mern-stack" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🎯 Quick Overview
+
+- 💻 Focused on Full Stack Web Development  
+- 🧩 Strong foundation in Data Structures & Programming  
+- 🌱 Constant learner & open to new technologies  
+- 👨‍🎓 Actively participating in coding contests, projects & tech communities  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mern-web-suman&show_icons=true&theme=default" alt="Suman's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mern-web-suman" alt="Suman's GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  🌟 “Building today. Leading tomorrow.” 🌟
+</p>
+
