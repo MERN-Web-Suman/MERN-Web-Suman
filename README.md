@@ -19,7 +19,7 @@ I'm a passionate and performance-driven **Full Stack Developer** who thrives on 
 - **Transforming ideas into live applications**
 - **Building full-stack projects with modern technologies**
 - **Crafting clean, maintainable, and reusable code**
-- **Working in collaborative environments using Git & Agile**
+- **Working in collaborative environments using Git**
 - **Constantly upskilling with the latest trends in web development**
 
 🧠 I'm not just coding to build websites — I'm building experiences, solving problems, and preparing myself for impactful roles in tech-driven companies or startups.
@@ -53,6 +53,20 @@ I'm a passionate and performance-driven **Full Stack Developer** who thrives on 
 
 ---
 
+## 🧩 Developer Tools I Use
+
+Here are some of the tools and platforms I use regularly to build and manage high-quality web applications:
+
+- 💻 **VS Code** — My go-to code editor with extensions like ESLint, Prettier, and GitLens
+- 🧰 **Postman** — For testing and debugging APIs efficiently
+- 🌐 **Chrome DevTools** — For real-time browser debugging and performance tuning
+- 🧱 **MongoDB Compass** — GUI for managing MongoDB databases
+- 🛠️ **MySQL Workbench** — For SQL-based relational database design and queries
+- 🎨 **Figma** — For UI/UX design reference and wireframing
+- ⚙️ **Git & GitHub** — For version control, code hosting, and collaboration
+- 🚀 **Render / Vercel** — For deploying full stack and frontend apps
+
+
 ## 🎓 Academics & Aspirations
 
 🎓 Pursuing B.Tech in CSE at **GIET (Gandhi Institute for Education and Technology)**  
@@ -84,6 +98,11 @@ I'm a passionate and performance-driven **Full Stack Developer** who thrives on 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mern-web-suman" alt="GitHub Streak" />
 </p>
 
+ ## 📈 GitHub Activity Graph
+
+[![Suman's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mern-web-suman&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ---
 
 ## ✨ Fun & Personality
@@ -99,6 +118,17 @@ I'm a passionate and performance-driven **Full Stack Developer** who thrives on 
   👨‍💻 Turning ideas into code • 💡 Building purposeful tech • 🚀 Always learning & evolving
 </p>
 
+
+ ## 💬 GitHub Contributions
+
+I actively contribute to open-source and developer communities.  
+Let's connect, build, and grow together!
+
+
+ ## 🎯 Personal Mission
+
+My mission is to build scalable, user-friendly, and impactful web applications that solve real-world problems.  
+I strive to grow every day as a developer and contribute meaningfully to the tech ecosystem.
 
 
 ---
