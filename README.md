@@ -98,10 +98,6 @@ Here are some of the tools and platforms I use regularly to build and manage hig
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mern-web-suman" alt="GitHub Streak" />
 </p>
 
- ## 📈 GitHub Activity Graph
-
-[![Suman's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mern-web-suman&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ---
 
@@ -114,9 +110,7 @@ Here are some of the tools and platforms I use regularly to build and manage hig
 
 ---
 
-<p align="center">
-  👨‍💻 Turning ideas into code • 💡 Building purposeful tech • 🚀 Always learning & evolving
-</p>
+
 
 
  ## 💬 GitHub Contributions
@@ -131,6 +125,9 @@ My mission is to build scalable, user-friendly, and impactful web applications t
 I strive to grow every day as a developer and contribute meaningfully to the tech ecosystem.
 
 
+   <p align="center">
+  👨‍💻 Turning ideas into code • 💡 Building purposeful tech • 🚀 Always learning & evolving
+</p>
 ---
 
 <p align="center">
