@@ -11,11 +11,18 @@
 
 ## 🧑‍💻 About Me
 
-I’m a passionate **Full Stack Developer** with a solid command over the complete web development lifecycle — from concept to deployment. With a strong academic foundation in **Computer Science & Engineering** from **Gandhi Institute for Education and Technology (GIET)**, I bring creativity, performance, and scalability to every line of code I write.
+I'm a passionate and performance-driven **Full Stack Developer** who thrives on solving problems through technology. With a strong academic foundation in **Computer Science & Engineering** at **Gandhi Institute for Education and Technology (GIET)**, I love building scalable, real-world applications that deliver both functionality and aesthetics.
 
-🔍 I specialize in crafting modern, dynamic user experiences using React on the frontend and scalable APIs on the backend.  
-💬 I enjoy building **real-world solutions**, exploring new technologies, and contributing to open-source projects.  
-💡 I believe in **clean code**, **design-first development**, and **lifelong learning**.
+🔍 I believe good code is **not just what works**, but what lasts, scales, and tells a story. My development style is user-first and performance-focused, where I pay attention to both **design detail** and **code architecture**.
+
+💬 I’m deeply passionate about:
+- **Transforming ideas into live applications**
+- **Building full-stack projects with modern technologies**
+- **Crafting clean, maintainable, and reusable code**
+- **Working in collaborative environments using Git & Agile**
+- **Constantly upskilling with the latest trends in web development**
+
+🧠 I'm not just coding to build websites — I'm building experiences, solving problems, and preparing myself for impactful roles in tech-driven companies or startups.
 
 ---
 
@@ -37,11 +44,11 @@ I’m a passionate **Full Stack Developer** with a solid command over the comple
 
 ## 🎯 What I Do
 
-- 💻 Build full-stack MERN applications
-- 🎨 Design pixel-perfect, responsive UIs
-- 🔐 Implement secure user authentication
-- ⚙️ Work with APIs, middleware & backend logic
-- 🚀 Deploy apps with CI/CD on Render & Vercel
+- 💻 Build full-stack MERN applications  
+- 🎨 Design pixel-perfect, responsive UIs  
+- 🔐 Implement secure user authentication  
+- ⚙️ Work with APIs, middleware & backend logic  
+- 🚀 Deploy apps with CI/CD on Render & Vercel  
 - 👥 Collaborate in Agile teams and Git workflows
 
 ---
@@ -50,8 +57,8 @@ I’m a passionate **Full Stack Developer** with a solid command over the comple
 
 🎓 Pursuing B.Tech in CSE at **GIET (Gandhi Institute for Education and Technology)**  
 🎯 Aiming to contribute to scalable software that improves lives  
-🌍 Actively learning about **AI**, **Cloud**, and **Next.js**  
-🤝 Keen on working with startups, open source, and high-impact tech teams  
+🌍 Constant learner exploring **AI**, **Cloud**, and **Next.js**  
+🤝 Eager to collaborate with startups, open-source, and mission-driven tech teams  
 
 ---
 
@@ -83,14 +90,15 @@ I’m a passionate **Full Stack Developer** with a solid command over the comple
 
 - 🎯 **Curious** about how tech can change the world  
 - 😄 **Fun fact:** I think I’m funny. Sometimes... too funny 😂  
-- 🎮 In love with strategy games & tech podcasts  
-- ☕ Fuelled by coffee and code
+- 🎮 Love strategy games, open-source, and solving real-world problems  
+- ☕ Fueled by chai, code, and curiosity
 
 ---
 
 <p align="center">
-  👨‍💻 Turning ideas into code | 💡 Making tech human | 🚀 Always learning
+  👨‍💻 Turning ideas into code • 💡 Building purposeful tech • 🚀 Always learning & evolving
 </p>
+
 
 
 ---
